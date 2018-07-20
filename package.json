@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gvcayetano/gvcayetano.github.io/issues"
   },
-  "homepage": "https://github.com/gvcayetano/gvcayetano.github.io#readme"
+  "homepage": "https://github.com/gvcayetano/gvcayetano.github.io#readme",
+  "devDependencies": {
+    "webpack": "^4.16.1"
+  }
 }
